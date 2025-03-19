@@ -1,4 +1,4 @@
-s a C++ program that calculates the average marks of a student in three subjects: Physics, Chemistry, and Math. For each subject, the student has four different test scores: Assignment, Coursework, Mid-term, and End-of-term exams.
+this is a C++ program that calculates the average marks of a student in three subjects: Physics, Chemistry, and Math. For each subject, the student has four different test scores: Assignment, Coursework, Mid-term, and End-of-term exams.
 Array Definitions:
 
 subjects[]: An array to store the names of the subjects.
